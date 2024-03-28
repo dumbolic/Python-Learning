@@ -1,2 +1,2 @@
 # Python-Learning
-Just Madlibs
+Just some stupid things
