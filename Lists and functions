@@ -1,0 +1,5 @@
+def note(information) :
+    print("Hello we are looking for you along with the data" + information + ". You be an actual shame")
+friens = ("sandeep")
+note("blogger")
+print("My friend is" + friens)
