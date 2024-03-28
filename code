@@ -1,0 +1,6 @@
+Day = input("Enter the day: ")
+who = input("Enter who you are referring to: ")
+When = input("See you when? : ")
+print("I am going to be successful" + Day)
+print("and " + who + " will not laugh because I am Me")
+print("See you " + When)
